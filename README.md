@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-API-Development-Testing/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-API-Development-Testing?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-API-Development-Testing/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-API-Development-Testing?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-API-Development-Testing/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-API-Development-Testing?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-API-Development-Testing/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-API-Development-Testing?style=flat-square&color=blue" alt="GitHub Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-API-Development-Testing/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License: MIT" /></a>
@@ -79,101 +79,101 @@ The sector exhibits **moderate fragmentation**:
 
 ## 💻 Open-Source GitHub Projects
 
-All open-source tools below are strictly ranked in descending order by GitHub Stars ⭐. Each entry includes its real-time star badge linking to the repository's stargazers.
+All open-source tools below are strictly ranked in descending order by GitHub_Stars ⭐. Each entry includes its real-time Stars_Badge linking to the repository's stargazers.
 
 ### 🔥 Tier 1: 30k+ Stars
 
-- **[Hoppscotch](https://github.com/hoppscotch/hoppscotch)** [![GitHub stars](https://img.shields.io/github/stars/hoppscotch/hoppscotch?style=social&color=white)](https://github.com/hoppscotch/hoppscotch/stargazers)  
+- **[Hoppscotch](https://github.com/hoppscotch/hoppscotch)** [![GitHub_Stars](https://img.shields.io/github/stars/hoppscotch/hoppscotch?style=social&color=white)](https://github.com/hoppscotch/hoppscotch/stargazers)  
   **The most widely adopted open-source API request builder** (MIT) . Lightweight web-first UI supporting **REST, GraphQL, WebSocket, SSE, MQTT, and Socket.IO**. Fully self-hostable with Docker for organizations that prioritize data sovereignty.
 
-- **[Bruno](https://github.com/usebruno/bruno)** [![GitHub stars](https://img.shields.io/github/stars/usebruno/bruno?style=social&color=white)](https://github.com/usebruno/bruno/stargazers)  
+- **[Bruno](https://github.com/usebruno/bruno)** [![GitHub_Stars](https://img.shields.io/github/stars/usebruno/bruno?style=social&color=white)](https://github.com/usebruno/bruno/stargazers)  
   **The offline-first, Git-native API client revolution** (MIT) . Bruno stores API collections as plain text files (`.bru` format) directly on your filesystem. What Postman Cloud provides via proprietary servers, Bruno delivers through Git—branches, pull requests, code reviews, and history. Features CLI for CI/CD, local `.env` secret management, and zero vendor lock-in.
 
-- **[curl](https://github.com/curl/curl)** [![GitHub stars](https://img.shields.io/github/stars/curl/curl?style=social&color=white)](https://github.com/curl/curl/stargazers)  
+- **[curl](https://github.com/curl/curl)** [![GitHub_Stars](https://img.shields.io/github/stars/curl/curl?style=social&color=white)](https://github.com/curl/curl/stargazers)  
   **The universal command-line tool for transferring data with URLs** (curl License) . The foundational backbone of network protocols and API testing—supporting HTTP, HTTPS, FTP, FTPS, SCP, SFTP, TFTP, DICT, TELNET, LDAP, and FILE.
 
-- **[Insomnia](https://github.com/Kong/insomnia)** [![GitHub stars](https://img.shields.io/github/stars/Kong/insomnia?style=social&color=white)](https://github.com/Kong/insomnia/stargazers)  
+- **[Insomnia](https://github.com/Kong/insomnia)** [![GitHub_Stars](https://img.shields.io/github/stars/Kong/insomnia?style=social&color=white)](https://github.com/Kong/insomnia/stargazers)  
   **Open-source desktop API client for REST, GraphQL, gRPC, and WebSockets** (Apache-2.0) . Maintained by Kong, featuring design-first spec editing, environment variables, code generation, and an extensive plugin ecosystem.
 
-- **[HTTPie CLI](https://github.com/httpie/cli)** [![GitHub stars](https://img.shields.io/github/stars/httpie/cli?style=social&color=white)](https://github.com/httpie/cli/stargazers)  
+- **[HTTPie CLI](https://github.com/httpie/cli)** [![GitHub_Stars](https://img.shields.io/github/stars/httpie/cli?style=social&color=white)](https://github.com/httpie/cli/stargazers)  
   **Modern, user-friendly command-line HTTP client** (BSD-3-Clause) . Designed for human readability with intuitive syntax, colorized terminal output, formatted JSON support, and persistent sessions.
 
-- **[k6](https://github.com/grafana/k6)** [![GitHub stars](https://img.shields.io/github/stars/grafana/k6?style=social&color=white)](https://github.com/grafana/k6/stargazers)  
+- **[k6](https://github.com/grafana/k6)** [![GitHub_Stars](https://img.shields.io/github/stars/grafana/k6?style=social&color=white)](https://github.com/grafana/k6/stargazers)  
   **Modern developer-centric load and performance testing tool** (AGPL-3.0) . Built by Grafana Labs with a Go core and JavaScript test scripting runtime for API stress testing and CI/CD quality gates.
 
 ---
 
 ### ⚡ Tier 2: 10k–30k Stars
 
-- **[Swagger UI](https://github.com/swagger-api/swagger-ui)** [![GitHub stars](https://img.shields.io/github/stars/swagger-api/swagger-ui?style=social&color=white)](https://github.com/swagger-api/swagger-ui/stargazers)  
+- **[Swagger UI](https://github.com/swagger-api/swagger-ui)** [![GitHub_Stars](https://img.shields.io/github/stars/swagger-api/swagger-ui?style=social&color=white)](https://github.com/swagger-api/swagger-ui/stargazers)  
   **The industry-standard interactive visual documentation generator for OpenAPI specifications** (Apache-2.0) . Dynamically renders interactive API consoles from OpenAPI definitions without framework constraints.
 
-- **[Locust](https://github.com/locustio/locust)** [![GitHub stars](https://img.shields.io/github/stars/locustio/locust?style=social&color=white)](https://github.com/locustio/locust/stargazers)  
+- **[Locust](https://github.com/locustio/locust)** [![GitHub_Stars](https://img.shields.io/github/stars/locustio/locust?style=social&color=white)](https://github.com/locustio/locust/stargazers)  
   **Scalable, Python-code-as-configuration load testing framework** (MIT) . Define user behavior in plain Python code and monitor distributed load tests via a clean real-time web dashboard.
 
-- **[OpenAPI Generator](https://github.com/OpenAPITools/openapi-generator)** [![GitHub stars](https://img.shields.io/github/stars/OpenAPITools/openapi-generator?style=social&color=white)](https://github.com/OpenAPITools/openapi-generator/stargazers)  
+- **[OpenAPI Generator](https://github.com/OpenAPITools/openapi-generator)** [![GitHub_Stars](https://img.shields.io/github/stars/OpenAPITools/openapi-generator?style=social&color=white)](https://github.com/OpenAPITools/openapi-generator/stargazers)  
   **Enterprise code generation engine from OpenAPI specs** (Apache-2.0) . Generates client SDKs, server stubs, and configuration files across 50+ programming languages and frameworks.
 
-- **[Redoc](https://github.com/Redocly/redoc)** [![GitHub stars](https://img.shields.io/github/stars/Redocly/redoc?style=social&color=white)](https://github.com/Redocly/redoc/stargazers)  
+- **[Redoc](https://github.com/Redocly/redoc)** [![GitHub_Stars](https://img.shields.io/github/stars/Redocly/redoc?style=social&color=white)](https://github.com/Redocly/redoc/stargazers)  
   **Clean, responsive OpenAPI documentation generator** (MIT) . Provides a three-panel design optimized for readable documentation and developer experience with deep markdown and code sample support.
 
-- **[Hurl](https://github.com/Orange-OpenSource/hurl)** [![GitHub stars](https://img.shields.io/github/stars/Orange-OpenSource/hurl?style=social&color=white)](https://github.com/Orange-OpenSource/hurl/stargazers)  
+- **[Hurl](https://github.com/Orange-OpenSource/hurl)** [![GitHub_Stars](https://img.shields.io/github/stars/Orange-OpenSource/hurl?style=social&color=white)](https://github.com/Orange-OpenSource/hurl/stargazers)  
   **Blazing-fast CLI tool powered by Rust and libcurl** (Apache-2.0) . Runs HTTP requests defined in simple plain text files with built-in assertion testing, HTML/JSON parsing, and seamless CI/CD integration.
 
-- **[Scalar](https://github.com/scalar/scalar)** [![GitHub stars](https://img.shields.io/github/stars/scalar/scalar?style=social&color=white)](https://github.com/scalar/scalar/stargazers)  
+- **[Scalar](https://github.com/scalar/scalar)** [![GitHub_Stars](https://img.shields.io/github/stars/scalar/scalar?style=social&color=white)](https://github.com/scalar/scalar/stargazers)  
   **Modern, beautifully designed interactive API documentation and testing platform** (MIT) . Offers a responsive OpenAPI reader with integrated live request clients and theme customization.
 
-- **[gRPCurl](https://github.com/fullstorydev/grpcurl)** [![GitHub stars](https://img.shields.io/github/stars/fullstorydev/grpcurl?style=social&color=white)](https://github.com/fullstorydev/grpcurl/stargazers)  
+- **[gRPCurl](https://github.com/fullstorydev/grpcurl)** [![GitHub_Stars](https://img.shields.io/github/stars/fullstorydev/grpcurl?style=social&color=white)](https://github.com/fullstorydev/grpcurl/stargazers)  
   **The curl of gRPC** (MIT) . Command-line tool for interacting directly with gRPC servers, supporting reflection and protobuf schema parsing.
 
 ---
 
 ### 🛠️ Tier 3: 5k–10k Stars
 
-- **[BloomRPC](https://github.com/bloomrpc/bloomrpc)** [![GitHub stars](https://img.shields.io/github/stars/bloomrpc/bloomrpc?style=social&color=white)](https://github.com/bloomrpc/bloomrpc/stargazers)  
+- **[BloomRPC](https://github.com/bloomrpc/bloomrpc)** [![GitHub_Stars](https://img.shields.io/github/stars/bloomrpc/bloomrpc?style=social&color=white)](https://github.com/bloomrpc/bloomrpc/stargazers)  
   **Desktop GUI client for gRPC and Protocol Buffers services** (MIT) . Provides a visual workspace for testing unary, client-streaming, and bidirectional gRPC calls.
 
-- **[Mockoon](https://github.com/mockoon/mockoon)** [![GitHub stars](https://img.shields.io/github/stars/mockoon/mockoon?style=social&color=white)](https://github.com/mockoon/mockoon/stargazers)  
+- **[Mockoon](https://github.com/mockoon/mockoon)** [![GitHub_Stars](https://img.shields.io/github/stars/mockoon/mockoon?style=social&color=white)](https://github.com/mockoon/mockoon/stargazers)  
   **Fastest and easiest local mock server application** (MIT) . Standalone desktop and CLI tool with route generation, templating, proxy mode, and zero cloud dependency.
 
-- **[WireMock](https://github.com/wiremock/wiremock)** [![GitHub stars](https://img.shields.io/github/stars/wiremock/wiremock?style=social&color=white)](https://github.com/wiremock/wiremock/stargazers)  
+- **[WireMock](https://github.com/wiremock/wiremock)** [![GitHub_Stars](https://img.shields.io/github/stars/wiremock/wiremock?style=social&color=white)](https://github.com/wiremock/wiremock/stargazers)  
   **Enterprise-grade simulator for HTTP-based APIs** (Apache-2.0) . Enables stubbing, fault injection, dynamic responses, stateful scenarios, and verification in Java and containerized test setups.
 
-- **[Newman](https://github.com/postmanlabs/newman)** [![GitHub stars](https://img.shields.io/github/stars/postmanlabs/newman?style=social&color=white)](https://github.com/postmanlabs/newman/stargazers)  
+- **[Newman](https://github.com/postmanlabs/newman)** [![GitHub_Stars](https://img.shields.io/github/stars/postmanlabs/newman?style=social&color=white)](https://github.com/postmanlabs/newman/stargazers)  
   **Postman's official command-line collection runner** (Apache-2.0) . Allows running Postman test suites directly inside CI/CD pipelines with JUnit, HTML, and JSON reporter exports.
 
-- **[REST Client (VS Code)](https://github.com/Huachao/vscode-restclient)** [![GitHub stars](https://img.shields.io/github/stars/Huachao/vscode-restclient?style=social&color=white)](https://github.com/Huachao/vscode-restclient/stargazers)  
+- **[REST Client (VS Code)](https://github.com/Huachao/vscode-restclient)** [![GitHub_Stars](https://img.shields.io/github/stars/Huachao/vscode-restclient?style=social&color=white)](https://github.com/Huachao/vscode-restclient/stargazers)  
   **Popular in-editor HTTP request runner for VS Code** (MIT) . Send requests and view responses directly within `.http` and `.rest` text files without leaving your IDE.
 
-- **[grpc-ui](https://github.com/fullstorydev/grpcui)** [![GitHub stars](https://img.shields.io/github/stars/fullstorydev/grpcui?style=social&color=white)](https://github.com/fullstorydev/grpcui/stargazers)  
+- **[grpc-ui](https://github.com/fullstorydev/grpcui)** [![GitHub_Stars](https://img.shields.io/github/stars/fullstorydev/grpcui?style=social&color=white)](https://github.com/fullstorydev/grpcui/stargazers)  
   **Interactive web UI for exploring and testing gRPC services** (MIT) . Provides an in-browser form-based GUI built on top of gRPCurl reflection.
 
-- **[Prism](https://github.com/stoplightio/prism)** [![GitHub stars](https://img.shields.io/github/stars/stoplightio/prism?style=social&color=white)](https://github.com/stoplightio/prism/stargazers)  
+- **[Prism](https://github.com/stoplightio/prism)** [![GitHub_Stars](https://img.shields.io/github/stars/stoplightio/prism?style=social&color=white)](https://github.com/stoplightio/prism/stargazers)  
   **Open-source HTTP mock server and contract linter** (Apache-2.0) . Generates dynamic realistic mock responses on the fly based directly on OpenAPI specifications.
 
 ---
 
 ### 🎯 Tier 4: Specialized & Contract Testing (Under 5k Stars)
 
-- **[MockServer](https://github.com/mock-server/mockserver-monorepo)** [![GitHub stars](https://img.shields.io/github/stars/mock-server/mockserver-monorepo?style=social&color=white)](https://github.com/mock-server/mockserver-monorepo/stargazers)  
+- **[MockServer](https://github.com/mock-server/mockserver-monorepo)** [![GitHub_Stars](https://img.shields.io/github/stars/mock-server/mockserver-monorepo?style=social&color=white)](https://github.com/mock-server/mockserver-monorepo/stargazers)  
   **Rich HTTP and HTTPS mocking and proxy framework** (Apache-2.0) . Verifies incoming requests, records traffic, and mocks microservice dependencies in integration test environments.
 
-- **[Dredd](https://github.com/apiaryio/dredd)** [![GitHub stars](https://img.shields.io/github/stars/apiaryio/dredd?style=social&color=white)](https://github.com/apiaryio/dredd/stargazers)  
+- **[Dredd](https://github.com/apiaryio/dredd)** [![GitHub_Stars](https://img.shields.io/github/stars/apiaryio/dredd?style=social&color=white)](https://github.com/apiaryio/dredd/stargazers)  
   **Language-agnostic HTTP API contract verification tool** (MIT) . Automatically tests live API implementations against OpenAPI/Swagger specs to prevent documentation drift.
 
-- **[Schemathesis](https://github.com/schemathesis/schemathesis)** [![GitHub stars](https://img.shields.io/github/stars/schemathesis/schemathesis?style=social&color=white)](https://github.com/schemathesis/schemathesis/stargazers)  
+- **[Schemathesis](https://github.com/schemathesis/schemathesis)** [![GitHub_Stars](https://img.shields.io/github/stars/schemathesis/schemathesis?style=social&color=white)](https://github.com/schemathesis/schemathesis/stargazers)  
   **State-of-the-art property-based testing tool** (MIT) . Employs hypothesis-driven fuzzing against OpenAPI and GraphQL schemas to automatically detect server crashes, uncaught exceptions, and specification breaches.
 
-- **[kin-openapi](https://github.com/getkin/kin-openapi)** [![GitHub stars](https://img.shields.io/github/stars/getkin/kin-openapi?style=social&color=white)](https://github.com/getkin/kin-openapi/stargazers)  
+- **[kin-openapi](https://github.com/getkin/kin-openapi)** [![GitHub_Stars](https://img.shields.io/github/stars/getkin/kin-openapi?style=social&color=white)](https://github.com/getkin/kin-openapi/stargazers)  
   **Go package for OpenAPI 3.0/3.1 validation, serialization, and request/response inspection** (MIT) . Widely adopted for building custom microservice gateways and validation middlewares.
 
-- **[Spectral](https://github.com/stoplightio/spectral)** [![GitHub stars](https://img.shields.io/github/stars/stoplightio/spectral?style=social&color=white)](https://github.com/stoplightio/spectral/stargazers)  
+- **[Spectral](https://github.com/stoplightio/spectral)** [![GitHub_Stars](https://img.shields.io/github/stars/stoplightio/spectral?style=social&color=white)](https://github.com/stoplightio/spectral/stargazers)  
   **Flexible JSON/YAML and OpenAPI linter** (Apache-2.0) . Enforces style guides, naming standards, and architectural consistency across all enterprise API specifications.
 
-- **[Pact JS](https://github.com/pact-foundation/pact-js)** [![GitHub stars](https://img.shields.io/github/stars/pact-foundation/pact-js?style=social&color=white)](https://github.com/pact-foundation/pact-js/stargazers)  
+- **[Pact JS](https://github.com/pact-foundation/pact-js)** [![GitHub_Stars](https://img.shields.io/github/stars/pact-foundation/pact-js?style=social&color=white)](https://github.com/pact-foundation/pact-js/stargazers)  
   **Consumer-driven contract testing framework** (MIT) . Enables independent deployment of microservices with absolute confidence that breaking contract changes will be caught before production.
 
-- **[SpectaQL](https://github.com/anvilco/spectaql)** [![GitHub stars](https://img.shields.io/github/stars/anvilco/spectaql?style=social&color=white)](https://github.com/anvilco/spectaql/stargazers)  
+- **[SpectaQL](https://github.com/anvilco/spectaql)** [![GitHub_Stars](https://img.shields.io/github/stars/anvilco/spectaql?style=social&color=white)](https://github.com/anvilco/spectaql/stargazers)  
   **Autogenerated static documentation for GraphQL schemas** (MIT) . Produces beautiful, three-panel static API documentation directly from any GraphQL schema.
 
 ---
