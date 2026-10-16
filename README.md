@@ -30,77 +30,36 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Disclaimer](#disclaimer)
+
+
+
+## Sector Overview & Market Dynamics
+
+The global API testing market is valued at approximately **$1.85B to $2.85B** (projected to reach over $3.2B with an 18–21% CAGR), while the broader API management ecosystem spans **$8.6B to $10.0B+**. The API development and testing sector is **moderately fragmented**—anchored by major category leaders like Postman and SmartBear, yet fiercely contested by rapid Git-native/open-source alternatives, specialized IDE extensions, and new AI-driven automation tools.
 
 
 
 ## SaaS/Hosted Platforms
 
+| Platform | Description | Scale (Valuation / Revenue) | Starting Paid Pricing | Free Tier Limits |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Postman](https://www.postman.com/)** | Industry-standard API platform for designing, building, and testing APIs with collections, mock servers, and automated runs. | **$5.6B valuation** (~$270M ARR) | **$9/user/month** (Solo, billed annually) or **$19/user/month** (Team) | **Free forever plan**: 1 user, unlimited collection runs, unlimited mock servers, and 50 AI credits per month (team collaboration/shared workspaces require paid plans). |
+| **[Insomnia](https://insomnia.rest/)** | API client for REST, GraphQL, WebSockets, SSE, and gRPC with design-first spec editing, test suites, and MCP support. | **$2.0B valuation** (~$145M ARR for parent Kong Inc.) | **$12/user/month** (Pro, billed annually) | **Free forever plan (Essentials)**: Up to 3 users for Git Sync projects, unlimited local/cloud projects, and 1,000 mock server requests/month. |
+| **[SwaggerHub](https://swagger.io/tools/swaggerhub/)** | Collaborative API design and documentation platform built on OpenAPI, featuring versioning and code generation. | **$1.8B+ valuation** (~$150M+ revenue for parent SmartBear) | **$19/user/month** (Individual, billed annually) or **$49/user/month** (Team) | **Free forever plan**: Up to 3 public APIs, 5 reusable domains, 1 public product portal with SmartBear branding, and 10 testing/AI credits. |
+| **[Stoplight](https://stoplight.io/)** | API design-first platform providing visual OpenAPI/AsyncAPI editing, mocking (Prism), and style guide governance (Spectral). | **$1.8B+ valuation** (Acquired by SmartBear) | **$39/user/month** (Startup/Team tier) | **Free forever plan**: Up to 3 user seats, 1 workspace project, visual design editor, and basic API documentation generation. |
+| **[RapidAPI](https://rapidapi.com/)** | Global API marketplace and developer hub offering discovery, testing, and monetization across 40,000+ APIs. | **$1.0B valuation** (~$40M ARR; Acquired by Nokia) | **$10/user/month** (Team Hub basic seat) | **Free forever plan**: Free account with basic API testing and marketplace access; individual APIs offer free tiers typically capped at 100–500 requests/day or 500k requests/month. |
+| **[Paw](https://paw.cloud/)** | Native macOS API client featuring dynamic values, environment configuration, code generation, and team sync. | **$1.0B valuation** (Acquired by RapidAPI / Nokia) | **Free** ($0 for full Mac client; integrated with RapidAPI Studio) | **Free forever plan**: Completely free for personal and commercial usage with full native macOS feature access and local file storage. |
+| **[Hoppscotch Cloud](https://hoppscotch.io/)** | Managed cloud version of the lightweight, open-source API client for REST, GraphQL, SSE, and WebSockets. | **$3M+ valuation** ($3M Seed funded; ~$1M ARR) | **$6/user/month** (Business, billed annually) | **Free forever plan**: Unlimited personal collections, environments, and multi-protocol testing; team workspaces and shared cloud collaboration require paid plans. |
+| **[HTTPie Cloud](https://httpie.io/)** | Cloud-synced, visual and web client paired with the popular human-friendly command-line HTTP client. | **~$550k ARR** (Boutique / Bootstrapped developer platform) | **$9/user/month** (Team tier, billed annually) | **Free forever plan**: Unlimited local and incognito requests, cross-device cloud sync for personal libraries, and preview access to HTTPie AI. |
+| **[Apidog](https://apidog.com/)** | Unified platform integrating API design, automated testing, mocking, and documentation with OpenAPI synchronization. | **Bootstrapped** (Private, self-funded startup) | **$9/user/month** (Basic, billed annually) | **Free forever plan**: Up to 4 team members, up to 5 projects, 1 sprint branch per project, and unlimited collection runs / mock servers. |
+| **[Thunder Client](https://www.thunderclient.com/)** | Lightweight, editor-native REST API client extension for VS Code and JetBrains IDEs. | **Bootstrapped** (Private indie developer tool) | **$3/user/month** (Starter, billed annually) | **Free forever plan**: Free for non-commercial/personal use; limited to basic manual requests (0 automated collection runs, environments/collections limited, advanced protocols require paid plans). |
 
 
-- **[Postman](https://www.postman.com/)**  
-
-  **The most widely adopted API platform** with collections, workspaces, mock servers, and automated testing. Features **Postman API** for programmatic access and **cloud sync** across teams. **The industry default** for API exploration and collaboration.
-
-
-
-- **[Insomnia](https://insomnia.rest/)**  
-
-  **API client for GraphQL, REST, WebSockets, SSE, and gRPC**. Features **design-first spec editing**, **test suites**, and **MCP client support** (paid plans, beta) . **Free tier** includes core functionality with cloud sync paid.
-
-
-
-- **[Paw](https://paw.cloud/)**  
-
-  **macOS-native API client** with a polished interface. Features **code generation**, **dynamic values**, and **team collaboration**. **The most macOS-native experience** in the category.
-
-
-
-- **[RapidAPI](https://rapidapi.com/)**  
-
-  **The largest API marketplace** with 40,000+ APIs. Features **API hub** for managing your own APIs, **testing tools**, and **monetization**.
-
-
-
-- **[Thunder Client](https://www.thunderclient.com/)**  
-
-  **Lightweight VS Code extension** for API testing. Features **collections, environments, and testing** directly inside the editor.
-
-
-
-- **[Hoppscotch Cloud](https://hoppscotch.io/)**  
-
-  Managed version of the open-source Hoppscotch API client. Features real-time collaboration, collections, and team workspaces.
-
-
-
-- **[HTTPie Cloud](https://httpie.io/)**  
-
-  Managed version of the open-source HTTPie CLI. Features **syntax highlighting**, **JSON support**, and **cloud sync** for API requests.
-
-
-
-- **[Apidog](https://apidog.com/)**  
-
-  **All-in-one API development platform** with design, debugging, testing, mocking, and documentation. Features **OpenAPI support** and **team collaboration**.
-
-
-
-- **[SwaggerHub](https://swagger.io/tools/swaggerhub/)**  
-
-  **API design and documentation platform** built on OpenAPI. Features **collaborative editing**, **versioning**, and **code generation**.
-
-
-
-- **[Stoplight](https://stoplight.io/)**  
-
-  **API design-first platform** with visual OpenAPI editor, mocking, and documentation. Features **style guides** and **governance**.
 
 
 
